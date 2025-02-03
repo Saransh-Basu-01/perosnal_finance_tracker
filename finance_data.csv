@@ -1,0 +1,13 @@
+date,amount,category,description
+01-02-2024,5000,income,Salary
+02-02-2024,200,expense,Groceries
+03-02-2024,1000,income,Freelance work
+04-02-2024,300,expense,Electricity Bill
+05-02-2024,150,expense,Transport
+06-02-2024,250,expense,Internet Bill
+07-02-2024,700,income,Part-time job
+08-02-2024,50,expense,Snacks
+09-02-2024,100,expense,Mobile Recharge
+10-02-2024,5000,income,Bonus
+
+02-02-2025,1200.0,income,helo
