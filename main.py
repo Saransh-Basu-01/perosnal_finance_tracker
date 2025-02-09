@@ -89,7 +89,7 @@ def main():
                     plot_transaction(df)  
             
         elif choice=="3":
-            print("exiting....")
+            print("exiting.....")
             break
         else:
             print("invalid choice.")
